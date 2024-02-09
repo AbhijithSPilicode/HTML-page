@@ -1,0 +1,35 @@
+table{
+    width:1000px;
+}
+
+th,td{
+    text-align:center;
+}
+
+table,th,td{
+    border:1px solid rgb(247, 243, 243);
+    border-collapse: collapse;
+}
+
+th,td{
+    padding:10px;
+}
+
+th{
+    background-color:rgba(215, 11, 25, 0.868)
+}
+tr:nth-child(even){
+    background-color:rgb(242, 245, 250)
+}
+
+tr:nth-child(odd){
+    background-color:rgba(16, 11, 11, 0.279)
+}
+
+.white{
+    color:antiquewhite
+} 
+
+.red{
+    background-color:rgba(215, 11, 25, 0.868)
+}
