@@ -1,0 +1,47 @@
+.fp1 {
+    letter-spacing: 5px;
+    }
+.fp2 {
+    text-align: right;
+    }
+ .fp3{
+    line-height: 4;
+ }
+ .fp4{
+    text-transform: uppercase;
+ } 
+ .fp5{
+    text-decoration: overline;
+ } 
+ .fp6{
+    text-decoration: underline;
+    text-decoration-color: red;
+ } 
+ .fp7{
+    text-indent: 30%; 
+ }  
+ .fp8{
+    word-spacing:4px;
+ }
+ .fp9{
+    direction:rtl;
+ }
+ .fp10{
+    text-decoration: line-through;
+    text-decoration-style:dashed;
+ }
+ .fp11
+ {
+    letter-spacing: 5px;
+    text-align: right; 
+    line-height: 4;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style:dashed;
+    text-indent: 30%;
+    word-spacing:4px;
+    direction:rtl;
+ }
+  
+  
