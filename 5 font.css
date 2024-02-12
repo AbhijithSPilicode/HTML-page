@@ -31,7 +31,7 @@
     }
     
 .fp8{
-    font-size: normal;
+    font-size: x-large;
     }
     
 .fp9{
@@ -41,3 +41,6 @@
 .fp10{
     font-size: 30px;
     }
+.fp11{
+    font-size:150%;
+}    
