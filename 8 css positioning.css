@@ -1,0 +1,42 @@
+.parent {
+   background-color:rgb(240, 43, 197); 
+    }
+
+.child-one{
+   background-color:rgb(65, 240, 97);
+   position:fixed;
+   top:40px;
+   right:140px;
+   height:80px;
+} 
+
+.child-two{
+   background-color:rgb(113, 53, 234);
+   position:absolute;
+   top:0;
+   right:120px;
+   height:80px;
+}  
+
+.child-three{
+   background-color:rgb(220, 247, 69);
+   position:relative;
+   top:60px;
+   height:80px;
+}
+
+.child-four{
+   background-color:rgb(240, 145, 30);
+   position:static;
+   top:250px;
+   right:170px;
+   height:80px;
+}
+.child-five{
+   background-color:rgba(30, 177, 240, 0.669);
+   position:sticky;
+   top:160px;
+   height:60px;
+}
+
+  
